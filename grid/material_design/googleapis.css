@@ -1,0 +1,23 @@
+/* Zurückfallen */
+@Schriftart {
+  Schriftfamilie: 'Material Icons';
+  Schriftschnitt: normal;
+  Schriftgewicht: 400;
+  src: url (https://fonts.gstatic.com/s/materialicons/v34/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2) Format ('woff2');
+}
+
+.Material-Icons {
+  Schriftfamilie: 'Material Icons';
+  Schriftgewicht: normal;
+  Schriftschnitt: normal;
+  Schriftgröße: 24px;
+  Zeilenhöhe: 1;
+  Buchstabenabstand: normal;
+  Text-Transformation: keine;
+  Anzeige: Inline-Block;
+  Leerzeichen: nowrap;
+  Wortumbruch: normal;
+  Richtung: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
